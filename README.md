@@ -15,7 +15,6 @@ Supports **both Men’s and Women’s** categories.
 
 ## 🌐 Live Demo
 [**Try the Size Converter App**](https://Shahz-ft.github.io/size-converter/)  
-*(Replace link with your actual GitHub Pages URL)*
 
 ## 🚀 How to Use
 1. Select your **gender**.
